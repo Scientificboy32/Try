@@ -1,0 +1,13 @@
+<!DOCTYPE=html>
+<html>
+ <head>
+ <title> try </title>
+</head>
+<body>
+ <h1> WELCOME</h1/>
+<p> welcome everyone</p>
+<img src="https://share.google/RgnjCja7tY49rCjGI"alt="bupb">
+<img src="istockphoto-1328315196-1024x1024.jpg"alt="bull">
+<img src="file_0000000067dc82079d1e0d61aa88e485.png"alt="final">
+</body>
+</html>
